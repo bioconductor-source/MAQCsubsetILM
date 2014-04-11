@@ -1,6 +1,6 @@
 Package: MAQCsubsetILM
 Title: MAQC data subset for the Illumina platform
-Version: 1.0.13
+Version: 1.2.0
 Author: Laurent Gatto
 Description: MAQC data subset for the Illumina platform
 Maintainer: Laurent Gatto  <lg390@cam.ac.uk>
