@@ -1,6 +1,6 @@
 Package: MAQCsubsetILM
 Title: MAQC data subset for the Illumina platform
-Version: 1.39.1
+Version: 1.39.2
 Author: Laurent Gatto
 Description: MAQC data subset for the Illumina platform
 Maintainer: Laurent Gatto  <laurent.gatto@uclouvain.be>
@@ -8,3 +8,4 @@ Depends: R (>= 2.10), Biobase (>= 2.5.5), lumi
 License: Artistic-2.0
 biocViews: ExperimentData, Homo_sapiens_Data, MicroarrayData
 LazyLoad: yes
+PackageStatus: Deprecated
